@@ -1,0 +1,271 @@
+@charset "UTF-8";
+
+header {
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    text-align: center;
+
+    background: #181818;
+    color: rgba(255, 255, 255, 0.89);
+}
+main > img {
+    width: 100%;
+}
+main > h1 {
+    position: absolute;
+    width: 400px;
+    height: 39px;
+    left: 100px;
+    top: 248px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+
+    color: rgb(255, 255, 255);
+}
+main > h4 {
+    position: absolute;
+width: 460px;
+height: 70px;
+left: 100px;
+top: 306px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 196.19%;
+/* or 35px */
+
+display: flex;
+align-items: center;
+
+color: #F9F9F9;
+}
+#Jordan {
+    
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 60px;
+    text-align: center;
+
+    background: #F9F9F9;
+    color: rgba(0, 0, 0, 0.856);
+}
+#tenisone {
+    position: absolute;
+    width: 1440px;
+    height: 378px;
+    left: 0px;
+    top: 119px;
+
+    background: #181818;
+    opacity: 90%;
+}
+#Destaques {
+    position: absolute;
+    width: 177px;
+    height: 63px;
+    left: 631px;
+    top: 555px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 196.19%;
+    /* identical to box height, or 63px */
+
+    display: flex;
+    align-items: center;
+
+    color: #181818;
+}
+div > p {
+    position: absolute;
+    width: 700px;
+    height: 35px;
+    left: 370px;
+    top: 618px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 196.19%;
+    /* or 35px */
+
+    /* display: flex; */
+    /* align-items: center; */
+    /* text-align: center; */
+
+    /* color: #474747; */
+}
+#Jordanverde {
+    position: absolute;
+    width: 300px;
+    height: 302px;
+    left: 100px;
+    top: 712px;
+
+    background: #EBE9EA;
+}
+#JordanVerde {
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    left: 33px;
+    top: 127px;
+}
+#Jordanazul {
+    position: absolute;
+    width: 300px;
+    height: 302px;
+    left: 413px;
+    top: 712px;
+
+    background: #EBE9EA;
+}
+#JordanAzul {
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    left: 33px;
+    top: 127px;
+}
+#Jordanbranco {
+    position: absolute;
+    width: 300px;
+    height: 302px;
+    left: 726px;
+    top: 712px;
+
+    background: #EBE9EA;
+}
+#JordanBranco { 
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    left: 38px;
+    top: 127px;
+
+}
+#Jordancinza { 
+    position: absolute;
+    width: 300px;
+    height: 302px;
+    left: 1039px;
+    top: 712px;
+
+    background: #EBE9EA;
+}
+#JordanCinza {
+    position: absolute;
+    
+    width: 250px; 
+    height: 150px; 
+    left: 40px; 
+    top: 127px; 
+
+}
+#Jordanpreto {
+    position: absolute;
+    width: 300px;
+    height: 302px;
+    left: 100px;
+    top: 1053px;
+
+    background: #EBE9EA;
+}
+#JordanPreto {
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    left: 39px;
+    top: 127px;
+}
+#Jordanlaranja {
+    position: absolute;
+    width: 300px;
+    height: 302px;
+    left: 413px;
+    top: 1053px;
+
+    background: #EBE9EA;
+}
+#JordanLaranja {
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    left: 39px;
+    top: 127px;
+}
+#Jordanallwhite {
+    position: absolute;
+    width: 300px;
+    height: 302px;
+    left: 726px;
+    top: 1053px;
+
+    background: #EBE9EA;
+}
+#JordanAllWhite {
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    left: 39px;
+    top: 127px;
+}
+#Jordanblack {
+    position: absolute;
+    width: 300px;
+    height: 302px;
+    left: 1039px;
+    top: 1053px;
+    background: #EBE9EA;
+
+}
+#JordanBlack {
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    left: 39;
+    top: 127px;
+}   
+footer {
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 1455px;
+
+    background: #181818;
+}
+footer > h2 {
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 590px;
+    top: -9px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 196.19%;
+    /* or 35px */
+
+    display: flex;
+    align-items: center;
+    color: white;
+}
